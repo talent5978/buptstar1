@@ -6,8 +6,8 @@ const Hero: React.FC = () => {
       {/* Background with overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=1920&auto=format&fit=crop"
-          alt="Earth from Space" 
+          src="https://images.unsplash.com/photo-1543722530-d2c3207908e1?q=80&w=1920&auto=format&fit=crop"
+          alt="Satellite and Earth from Space" 
           className="w-full h-full object-cover opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-space-black via-transparent to-bupt-blue/30"></div>
